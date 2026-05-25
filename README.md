@@ -144,15 +144,3 @@ Click any event row to expand and see the full payload.
 ### 6. Retry Failed Events
 Failed events show a retry button (↻). Click to re-attempt delivery.
 
-## Screenshots
-
-> Add screenshots of the dashboard, event log, and detail page here.
-
-## Future Improvements
-
-- Webhook event search and full-text filtering
-- Export events to CSV/JSON
-- Charts for event volume over time
-- Webhook health scores and uptime tracking
-- Team/organization support
-- Dark/light theme toggle
